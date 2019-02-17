@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <content url="jar://E:/spark/spark-2.3.2-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/">
+      <sourceFolder url="jar://E:/spark/spark-2.3.2-bin-hadoop2.7/python/lib/py4j-0.10.7-src.zip!/" isTestSource="false" />
+    </content>
+    <content url="jar://E:/spark/spark-2.3.2-bin-hadoop2.7/python/lib/pyspark.zip!/">
+      <sourceFolder url="jar://E:/spark/spark-2.3.2-bin-hadoop2.7/python/lib/pyspark.zip!/" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.7.0 (sftp://dik@192.168.111.101:22/home/dik/anaconda3/bin/python3.7)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
